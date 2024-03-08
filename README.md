@@ -20,4 +20,4 @@ go build -o linux-kernel-signals
 
 
 ### Output
-![HTML REPORT](signals.png)
+(signals.png)
